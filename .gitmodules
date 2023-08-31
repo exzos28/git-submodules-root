@@ -1,6 +1,6 @@
 [submodule "apps/app1"]
 	path = apps/app1
-	url = https://github.com/exzos28/git-submodules-app1
+	url = https://github.com/exzos28/git-submodules-app1.git
 [submodule "apps/app2"]
 	path = apps/app2
 	url = https://github.com/exzos28/git-submodules-app2.git
