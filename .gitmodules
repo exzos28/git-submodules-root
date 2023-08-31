@@ -1,0 +1,3 @@
+[submodule "apps/app1"]
+	path = apps/app1
+	url = https://github.com/exzos28/git-submodules-app1
